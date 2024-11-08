@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="TAVICO.NET - Sản xuất phần mềm, thiết kế website" -->
+<?xml-stylesheet href="http://nbkqna.edu.vn/plugins/system/jvgallery/css/template.css" type="text/css"?>
+<?xml-stylesheet href="http://nbkqna.edu.vn/plugins/system/jvgallery/css/slimbox.css" type="text/css"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Giới thiệu về tổ</title>
+		<description>Trường THPT Chuyên Nguyễn Bỉnh Khiêm</description>
+		<link>http://nbkqna.edu.vn/index.php/co-cau-to-chuc/cac-to-chuyen-mon/t-ly-cong-ngh/gii-thiu-v-t</link>
+		<lastBuildDate>Fri, 08 Nov 2024 12:34:46 +0000</lastBuildDate>
+		<generator>TAVICO.NET - Sản xuất phần mềm, thiết kế website</generator>
+		<language>vi-vn</language>
+		<item>
+			<title>Thông tin tổ vật lý</title>
+			<link>http://nbkqna.edu.vn/index.php/co-cau-to-chuc/cac-to-chuyen-mon/t-ly-cong-ngh/gii-thiu-v-t/182-thong-tin-to-vat-ly</link>
+			<guid>http://nbkqna.edu.vn/index.php/co-cau-to-chuc/cac-to-chuyen-mon/t-ly-cong-ngh/gii-thiu-v-t/182-thong-tin-to-vat-ly</guid>
+			<description><![CDATA[<p style="text-align: center;"><span style="color: #ff0000;"><strong>DANH SÁCH GIÁO VIÊN TỔ VẬT LÝ</strong></span></p>
+<table style="width: 580px;" cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody>
+<tr bgcolor="#7DB0DB">
+<td valign="top">
+<table style="width: 580px;" cellspacing="1" cellpadding="2" border="0">
+<tbody>
+<tr class="tr_table_tit">
+<td width="25" align="center"><strong>STT</strong></td>
+<td width="124" align="center"><strong>Hình ảnh</strong></td>
+<td width="338" align="center"><strong> Thông tin</strong></td>
+<td width="90" align="center"><strong>Ghi chú</strong></td>
+</tr>
+<tr class="tr_table">
+<td style="text-align: center;"><strong>1</strong></td>
+<td align="center"><img src="http://nbkqna.edu.vn/images/stories/anh-gv/no_avatar.png" alt="alt" width="120" /></td>
+<td>- <strong>Họ tên</strong>: Nguyễn Văn Quang<br /> - <strong>Chức vụ</strong>: Giáo viên<br /> - <strong>Chuyên môn</strong>: SP Vật lý<br /> - <strong>E-mail</strong>: <br /> - <strong>Điện thoại</strong>: 0903 471 070<br /> - <strong>Địa chỉ</strong>: Tam Kỳ - QNam</td>
+<td style="text-align: center;"></td>
+</tr>
+<!--tr class="tr_table">
+<td style="text-align: center;"><strong>2</strong></td>
+<td align="center"><img src="http://nbkqna.edu.vn/images/stories/anh-gv/nguyen-thi-my-dung.png" alt="nguyen-thi-my-dung" width="120" height="150" /></td>
+<td>- <strong>Họ tên</strong>: Nguyễn Thị Mỹ Dung<br /> - <strong>Chức vụ</strong>: Giáo viên<br /> - <strong>Chuyên môn</strong>: SP Vật lý<br /> - <strong>E-mail</strong>: <br /> - <strong>Điện thoại</strong>: 0984 524 210<br /> - <strong>Địa chỉ</strong>: Lô 28 - Thái Phiên - Tam Kỳ - QNam</td>
+<td style="text-align: center;"></td>
+</tr--> <!--tr class="tr_table">Da nghi huu ngay 01/11/2017
+<td style="text-align: center;"><strong>3</strong></td>
+<td align="center"><img src="http://nbkqna.edu.vn/images/stories/anh-gv/nguyen-thi-ngoc-en.png" alt="alt" width="120" /></td>
+<td>- <strong>Họ tên</strong>: Nguyễn Thị Ngọc Én<br /> - <strong>Chức vụ</strong>: Giáo viên<br /> - <strong>Chuyên môn</strong>: SP Vật lý<br /> - <strong>E-mail</strong>: <br /> - <strong>Điện thoại</strong>: 0982 543 038<br /> - <strong>Địa chỉ</strong>: Tam Kỳ - QNam</td>
+<td style="text-align: center;"></td>
+</tr-->
+<tr class="tr_table">
+<td style="text-align: center;"><strong>2</strong></td>
+<td align="center"><img src="http://nbkqna.edu.vn/images/stories/anh-gv/tu-thi-nhu-phuong.png" alt="tu-thi-nhu-phuong" width="120" height="150" /></td>
+<td>- <strong>Họ tên</strong>: Từ Thị Như Phương<br /> - <strong>Chức vụ</strong>: Giáo viên<br /> - <strong>Chuyên môn</strong>: SP Vật lý<br /> - <strong>E-mail</strong>: <span class="gI"><span class="go">tuthinhuphuong@gmail.com</span></span><br /> - <strong>Điện thoại</strong>: 0982 300 311<br /> - <strong>Địa chỉ</strong>: KP11 - An Mỹ - Tam Kỳ - QNam</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="tr_table">
+<td style="text-align: center;"><strong>3</strong></td>
+<td align="center"><img src="http://nbkqna.edu.vn/images/stories/anh-gv/no_avatar.png" alt="alt" width="120" /></td>
+<td>- <strong>Họ tên</strong>: Phan Công Thành<br /> - <strong>Chức vụ</strong>: Giáo viên<br /> - <strong>Chuyên môn</strong>: SP Vật lý<br /> - <strong>E-mail</strong>: <br /> - <strong>Điện thoại</strong>: 0976 922 758<br /> - <strong>Địa chỉ</strong>: Tam Kỳ - QNam</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="tr_table">
+<td style="text-align: center;"><strong>4</strong></td>
+<td align="center"><img src="http://nbkqna.edu.vn/images/stories/anh-gv/no_avatar.png" alt="alt" width="120" /></td>
+<td>- <strong>Họ tên</strong>: Võ Quốc Á<br /> - <strong>Chức vụ</strong>: Tổ phó CM<br /> - <strong>Chuyên môn</strong>: SP Vật lý<br /> - <strong>E-mail</strong>: <br /> - <strong>Điện thoại</strong>: 0913 832 400<br /> - <strong>Địa chỉ</strong>: Tam Kỳ - QNam</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="tr_table">
+<td style="text-align: center;"><strong>5</strong></td>
+<td align="center"><img src="http://nbkqna.edu.vn/images/stories/anh-gv/no_avatar.png" alt="alt" width="120" /></td>
+<td>- <strong>Họ tên</strong>: Giáp Văn Thức<br /> - <strong>Chức vụ</strong>: Tổ trưởng CM<br /> - <strong>Chuyên môn</strong>: SP Vật lý<br /> - <strong>E-mail</strong>: <br /> - <strong>Điện thoại</strong>: <br /> - <strong>Địa chỉ</strong>: Tam Kỳ - QNam</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="tr_table">
+<td style="text-align: center;"><strong>6</strong></td>
+<td align="center"><img src="http://nbkqna.edu.vn/images/stories/anh-gv/truong-ngoc-dieu.png" alt="truong-ngoc-dieu" width="120" height="150" /></td>
+<td>- <strong>Họ tên</strong>: Trương Ngọc Điểu<br /> - <strong>Chức vụ</strong>: Giáo viên<br /> - <strong>Chuyên môn</strong>: SP Vật lý<br /> - <strong>E-mail</strong>: ngocdieu.tx@gmail.com<br /> - <strong>Điện thoại</strong>: 0977 701 517<br /> - <strong>Địa chỉ</strong>: P. An Sơn - Tam Kỳ - QNam</td>
+<td style="text-align: center;"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>]]></description>
+			<author>giaovunbk2022@gmail.com (Administrator)</author>
+			<category>Giới thiệu về tổ</category>
+			<pubDate>Tue, 22 Oct 2013 08:00:34 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

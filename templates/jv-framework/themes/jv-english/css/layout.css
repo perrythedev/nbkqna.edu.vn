@@ -1,0 +1,78 @@
+* { margin:0; padding:0;}
+
+h1 { font-size: 180%; }
+h2 { font-size: 150%; }
+h3 { font-size: 130%; }
+h4 { font-size: 100%; }
+h5 { font-size: 100%; }
+img { border: 0; }
+
+#logo img  { display:block;}
+
+ul li { list-style-type:none; }
+
+/* HEADER
+---------------------------------------------------------------*/
+
+
+/* COLUMN
+---------------------------------------------------------------*/
+
+#maincontent { float:right;}
+.jv-module .contentmod {overflow:hidden;}
+.box { float:left}
+
+.module-null{ background:none !important; border:0 !important }
+.module-null .innerbor { padding:0 !important; border:0 !important}
+.module-null .contentmod { margin:0; padding:0;}
+
+
+/* ARTICLE CONTENT
+---------------------------------------------------------------*/
+
+.cols-1 { }
+
+.cols-2 .item                {        width:50%;        float:left;}
+.cols-2 .column-1 .in_column { margin-right:10px;}
+.cols-2 .column-2 .in_column { margin-left:10px;}
+
+.cols-3 .item                { float:left;  width:33%; }
+.cols-3 .column-2            { margin-left:0.5%;}
+.cols-3 .column-3            { float:right; }
+.cols-3 .column-1 .in_column { margin-right:10px;}
+.cols-3 .column-2 .in_column { margin:0 5px;}
+.cols-3 .column-3 .in_column { margin-left:10px;}
+
+.cols-4 .item                { float:left; width:25%; }
+.cols-4 .column-1 .in_column { margin-right:10px;}
+.cols-4 .column-2 .in_column,
+.cols-4 .column-3 .in_column { margin:0 5px;}
+.cols-4 .column-4 .in_column { margin-left:10px;}
+
+.cols-5 .item                { float:left; width:20%; }
+.cols-5 .column-1 .in_column { margin-right:10px;}
+.cols-5 .column-2 .in_column,
+.cols-5 .column-3 .in_column,
+.cols-5 .column-4 .in_column { margin:0 5px;}
+.cols-5 .column-5 .in_column { margin-left:10px;}
+
+.items-leading, .items-row{   overflow:hidden;}
+
+
+
+
+/* IPHONE
+-------------------------------------------------------------*/
+
+.switch_version .pda { background:url(../images/iphone/pda_resize.png) ; height:29px; width:29px; float:left; margin:5px 0 0 5px; position:relative; z-index:9999; }
+.tool-tip {background: #FFF; padding: 10px; border: 1px solid #ccc;}
+
+/* Clearfix
+-------------------------------------------------------------*/
+* html .clearfix {	height: 1%;}
+* +html .clearfix { display: inline-block; } /* IE7xhtml*/
+html[xmlns] .clearfix { /* O */	display: block;  }
+.clearfix:after { /* FF, O, etc. */	content: "."; display: block;	height: 0;	clear: both; visibility: hidden;}
+
+form.editor fieldset {border:1px solid #ccc; padding:10px; margin-bottom:10px;}
+form.editor fieldset legend {font-weight:bold; padding:0 5px;} 

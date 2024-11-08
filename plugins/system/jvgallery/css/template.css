@@ -1,0 +1,6 @@
+.gallery-item { overflow:hidden;}
+.gallery-item li { float:left; position:relative; margin:5px;}
+.gallery-item li a { display:block}
+.gallery-item li .jv-caption { background:url(../images/des.png);  position:absolute; bottom:0; left:0; width:100%; padding:6px 0 }
+.gallery-item li:hover .jv-caption { background:url(../images/des_over.png); }
+.gallery-item li .jv-caption span { display:block; padding:0 10px; line-height:16px; color:#fff; font-weight:bold; text-transform:capitalize;}

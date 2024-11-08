@@ -1,0 +1,11 @@
+div.mod_youtubeplaylist {
+  border: thin silver solid;
+  text-align: center;
+  margin: 0.1em;
+  padding: 0.1em;
+}
+div.mod_youtubeplaylist img {
+  border: thin silver solid;
+  margin: 0.1em;
+  padding: 0.1em;
+}

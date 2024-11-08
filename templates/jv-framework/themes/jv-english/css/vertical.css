@@ -1,0 +1,18 @@
+/* vertical */
+ul.vertical { position:relative;  display: inline-block; width:100%;}
+ul.vertical, ul.vertical ul {	margin: 0;	padding: 0;}
+
+ul.vertical li {	display: block;	cursor: pointer; background:url(../images/line2.jpg) repeat-x  top  left ; list-style-type:none;	padding-top:2px; display: inline-block; width:100%;}
+ul.vertical li:first-child   { background:none;}
+ul.vertical  ul {	width: 200px;	position: absolute; 	z-index: 99;	left: -999em; background: #d7d7d7 ; border:1px solid #c4c4c4; }
+ul.vertical  li:hover > ul {left: 95%; margin: -29px 0 0 0;}
+
+ul.vertical li a{ font-size:11px; text-transform:uppercase; padding:0 10px; color:#212627; display:block; outline:none; line-height:28px; }
+ul.vertical li:hover a,  ul.vertical li.active a{ color:#018db0;}
+
+ul.vertical span { display:block;}
+ul.vertical li.parent > a > span {background: url(../images/arrow.png) no-repeat right  center;  }
+
+ul.vertical ul  a { color:#212627 !important;} 
+ul.vertical ul  a:hover, ul.vertical ul li.active > a { color: #018db0 !important ;}
+

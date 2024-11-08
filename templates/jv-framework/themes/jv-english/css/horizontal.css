@@ -1,0 +1,50 @@
+/* PULLIC
+ --------------------------------------------------------------------------------------------- */
+ul.mainmenu > li > a { margin-left:10px;}
+ul.mainmenu li a{ font-size:11px; text-transform:uppercase; padding:0 25px 0 15px; color:#007593; display:block; outline:none; line-height:30px;
+ text-decoration:none; background: url(../images/item.png) right top; font-weight:bold;  }
+ul.mainmenu li:hover a, ul.mainmenu li.active a{ background-position: bottom right; color:#c8eaf2; } 
+
+ul.mainmenu ul li a { line-height:normal; padding:7px; background:none  !important; line-height: normal; color:#a3a3a3; text-transform: capitalize; border:0;}
+ul.mainmenu ul  a:hover,  ul.mainmenu ul li.active > a { color:#fff;}
+
+.dropline ul.mainmenu > li > ul > li > a { color:#fff; line-height:30px;  text-transform: capitalize; padding:0 10px; }
+.dropline ul.mainmenu > li > ul > li.parent  > a > span  { padding-right:15px; background: url(../images/arrow2.png) no-repeat right  center;}
+
+/*--------------------------------------------------------------------------------------------------------------------------------*/
+.jv-menu { height: 32px;  position:relative; }
+ul.mainmenu {	margin: 0;	padding: 0; height:30px;  background: url(../images/menu.jpg) left top repeat-x  ; border:1px solid #c8c8c8; }
+ul.mainmenu .dd {position: absolute; top: 30px; left: auto ;  background: url(../images/trans.gif);  z-index:999; }
+
+.dropdown ul.mainmenu > li { position:relative;  }
+ul.mainmenu  li {	display: block;	cursor: pointer; float:left;  margin-right:1px;  list-style-type:none; }
+
+ul.mainmenu > li { margin-right: -15px; }
+ul.mainmenu > li.active,  ul.mainmenu > li:hover {   background: url(../images/liactive.png) no-repeat top left; }
+
+ul.mainmenu ul {	width: 200px;	position: absolute; z-index: 99; margin: 0; padding:0; left:-999em; background:#0088a9; padding:1px; }
+ul.mainmenu li:hover > ul {left: auto;	}
+
+ul.mainmenu ul li { background:#1097b8 url(../images/line1.png) repeat-x top   left;   width:100%; padding:0 !important; margin:0 !important; } 
+ul.mainmenu ul li:first-child {background-image:none}
+ul.mainmenu ul span { display:block;}
+
+ul.mainmenu ul ul { margin: -25px 0 0 95%;}
+ul.mainmenu ul li.parent > a > span {background: url(../images/arrow.png) no-repeat right  center; }
+
+/* jv-dropline  */
+.jv-menu.dropline { height:62px}
+.dropline ul.mainmenu { position:relative; }
+.dropline ul.mainmenu > li > ul  { width:100%;  display:block;  background: #1097b8 url(../images/trans.gif);  height:30px; border:0; padding:0;}
+.dropline ul.mainmenu > li:hover > ul, .dropline ul.mainmenu > li.active > ul { left: 0; }
+.dropline ul.mainmenu > li > ul > li { float:left;  position:relative; width:auto !important; background: none !important}
+.dropline ul.mainmenu > li > ul > li > ul { margin:0 !important}
+
+
+
+
+
+
+
+
+

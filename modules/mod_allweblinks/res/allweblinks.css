@@ -1,0 +1,51 @@
+/* not used: .hits, .numlnk, .caticon*/
+
+.cat_title, .cat_title_lnkcols, .cat_title_catcols { font-weight: bold; }
+.ldes, .ldes_lnkcols, .ldes_catcols { font-size: smaller; }
+.cdes, .cdes_lnkcols, .cdes_catcols { font-style: italic; }
+.new, .new_lnkcols, .new_catcols { font-weight: bold; color: red; }
+
+/*ul.awl li, ul.awl_lnkcols li, ul.awl_catcols li = all bullets*/
+
+.cats, .cats_lnkcols, .cats_catcols {
+ background-image: none !important; /* list style on/off for e.g. purity layouts */
+ list-style-type: none;             /* list style on/off for e.g. milkyqay layout */
+ padding: 0 !important;             /* to overrule formats (indent) from some templates*/
+}
+
+ul.links li, ul.links_lnkcols li, ul.links_catcols li {
+ background-image: none !important; /* list style on/off for e.g. purity layouts */
+ list-style-type: none;             /* list style on/off for e.g. milkyqay layout */
+ padding-left: 15px !important;     /* indent for the links */
+}
+
+/* below styles should not be changed */
+.awl, .awl_lnkcols, ul.links_catcols { padding: 0px; }
+
+ul.links {
+height: 100%;
+padding: 0px;
+}
+
+ul.links li { border-bottom: 1px dotted silver; }
+
+ul.links_lnkcols, .awl_catcols {
+width: 97%;
+overflow: auto;
+height: 100%;
+padding: 0px;
+}
+
+ul.links_lnkcols li {
+width: 13em;
+float: left;
+border-bottom: 1px dotted silver;
+}
+
+ul.links_catcols li { }
+
+.cats_catcols {
+width: 13em;
+float: left;
+border-bottom: 1px dotted silver;
+}

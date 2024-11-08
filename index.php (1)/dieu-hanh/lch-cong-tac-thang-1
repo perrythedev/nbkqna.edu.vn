@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="TAVICO.NET - Sản xuất phần mềm, thiết kế website" -->
+<?xml-stylesheet href="http://nbkqna.edu.vn/plugins/system/jvgallery/css/template.css" type="text/css"?>
+<?xml-stylesheet href="http://nbkqna.edu.vn/plugins/system/jvgallery/css/slimbox.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="vi-vn">
+	<title type="text">Lịch công tác tháng</title>
+	<subtitle type="text">Trường THPT Chuyên Nguyễn Bỉnh Khiêm</subtitle>
+	<link rel="alternate" type="text/html" href="http://nbkqna.edu.vn"/>
+	<id>http://nbkqna.edu.vn/index.php/dieu-hanh/lch-cong-tac-thang</id>
+	<updated>2024-11-08T12:45:45Z</updated>
+	<generator uri="http://joomla.org" version="1.5">TAVICO.NET - Sản xuất phần mềm, thiết kế website</generator>
+<link rel="self" type="application/atom+xml" href="http://nbkqna.edu.vn/index.php/dieu-hanh/lch-cong-tac-thang?format=feed&amp;type=atom" />
+	<entry>
+		<title>Lịch công tác tháng 8-2014</title>
+		<link rel="alternate" type="text/html" href="http://nbkqna.edu.vn/index.php/dieu-hanh/lch-cong-tac-thang/218-lch-cong-tac-thang-8-2014"/>
+		<published>2014-07-31T17:00:00Z</published>
+		<updated>2014-07-31T17:00:00Z</updated>
+		<id>http://nbkqna.edu.vn/index.php/dieu-hanh/lch-cong-tac-thang/218-lch-cong-tac-thang-8-2014</id>
+		<author>
+			<name>Administrator</name>
+		<email>giaovunbk2022@gmail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;Thông tinn đang cập nhật&lt;/p&gt;</summary>
+		<content type="html">&lt;p&gt;Thông tinn đang cập nhật&lt;/p&gt;</content>
+	</entry>
+</feed>

@@ -1,0 +1,20 @@
+
+
+.imgshadow, .gallery1 img, .jvnew-content .intro-thumnail img { -webkit-box-shadow:2px 2px 5px #696969; -moz-box-shadow: 2px 2px 5px #696969; box-shadow: 2px 2px 5px #696969;}
+ 
+#panels-inner{ -webkit-box-shadow: #666 0px 2px 3px; -moz-box-shadow: #666 0px 2px 3px; box-shadow: #666 0px 2px 3px;}
+.wrapper3 {
+	 -webkit-box-shadow:0 0 12px #d2d2d2; -moz-box-shadow: 0 0 10px #d2d2d2; box-shadow: 0 0 10px #d2d2d2;
+	 -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px;}
+#jv-header { -webkit-border-radius: 10px 10px 0 0; -moz-border-radius:10px 10px 0 0; border-radius:10px 10px 0 0;}
+.jv-search { -webkit-border-radius: 0 10px 0 0; -moz-border-radius:0 10px 0 0; border-radius:0 10px 0 0;}
+
+ul.mainmenu, .jv-module , .innerbor, #wrap_component, #jv-content
+{ -webkit-border-radius: 5px; -moz-border-radius:5px; border-radius:5px;}
+ 
+p.readmore a, ul.mainmenu ul
+{ -webkit-border-radius: 3px; -moz-border-radius:3px; border-radius:3px;}
+
+
+
+

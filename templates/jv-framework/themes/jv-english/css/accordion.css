@@ -1,0 +1,17 @@
+/* jv-accordion */
+
+.module-accordion .contentmod {  margin:0 !important; padding:0 !important; }
+.accordion { margin:0; padding:0;}
+.accordion li { list-style-type:none; }
+.accordion a, .accordion span { display:block;}
+
+.accordion li span.separator, .accordion  li > a {
+ font-size:11px; text-transform:uppercase; padding:0 10px; color:#212627; line-height:30px;
+ background:url(../images/line2.jpg) repeat-x bottom  left; cursor:pointer }
+ .accordion li.active span.separator, .accordion  li > a:hover, .accordion  li.active > a, .separator span:hover {color: #018DB0;}
+ 
+ .accordion li span.separator span {background:url(../images/arrow3.png) no-repeat  right center; }
+ .accordion li.active span.separator span {background:url(../images/arrow2.png) no-repeat  right center; }
+ .accordion ul a { line-height:25px; color:#545454; text-transform:capitalize; padding-left:20px;}
+  .accordion ul a span {background:url(../images/sub.png) no-repeat left center; padding-left:10px; }
+.accordion ul  {  background:#ededed; padding:0; }
